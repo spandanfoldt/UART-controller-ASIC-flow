@@ -1,5 +1,6 @@
-# UART-controller-RTL-GDSII-flow
-Complete RTL-to-GDSII implementation of a UART Controller using SystemVerilog, OpenLane 2, and the Sky130 open-source ASIC flow.
+UART Controller RTL-to-GDSII ASIC Flow
+
+RTL Design → Synthesis → Floorplan → Placement → CTS → Routing → STA → DRC → LVS → GDSII
 
 This project builds upon my earlier UART Controller RTL implementation, which focused on functional design and simulation.
 
